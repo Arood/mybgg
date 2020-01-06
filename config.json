@@ -1,18 +1,18 @@
 {
     "project": {
         "name": "mybgg",
-        "title": ""
+        "title": "Arood's boardgames"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "arood",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "EOYPAFRGW0",
+        "api_key_search_only": "f50732e089537ea93c025c142cd77114",
+        "index_name": "mybgg",
         "hits_per_page": 24
     }
 }
